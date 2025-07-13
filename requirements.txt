@@ -3,3 +3,5 @@ nselib
 pandas
 plotly
 pandas_market_calendars
+numpy
+openpyxl
