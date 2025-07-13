@@ -2,3 +2,4 @@ streamlit
 nselib
 pandas
 plotly
+pandas_market_calendars
